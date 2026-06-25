@@ -21,7 +21,7 @@
 
   ---
 
-  ## 🧠 Research Interests
+  ## 💻 What I'm Building
 
   > **AI Agent**
   > I am interested in building autonomous, tool-using, and context-aware intelligent agents that can understand goals, reason over tasks, and collaborate with humans in real-world workflows.
@@ -35,7 +35,7 @@
 
   ---
 
-  ## 🌱 Long-term Vision
+  ## 💫 North Star
 
   > I hope to build useful, elegant, and intelligent systems that go beyond traditional software.
   > My long-term goal is to explore how AI Agents can become capable collaborators, helping people think, create, and solve complex problems more effectively.
