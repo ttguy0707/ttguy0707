@@ -1,0 +1,84 @@
+<svg width="720" height="180" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg {
+      fill: #0d1117;
+    }
+
+    .scan {
+      fill: none;
+      stroke: rgba(168, 85, 247, 0.16);
+      stroke-width: 1;
+    }
+
+    .logo {
+      font-family: "Fira Code", "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+      font-size: 76px;
+      font-weight: 800;
+      letter-spacing: 10px;
+      fill: transparent;
+      stroke: #a855f7;
+      stroke-width: 2.2;
+      stroke-dasharray: 520;
+      stroke-dashoffset: 520;
+      animation: draw 3.2s ease-in-out infinite alternate;
+    }
+
+    .glow {
+      font-family: "Fira Code", "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+      font-size: 76px;
+      font-weight: 800;
+      letter-spacing: 10px;
+      fill: #a855f7;
+      opacity: 0.14;
+      filter: blur(7px);
+    }
+
+    .tagline {
+      font-family: "Fira Code", "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+      font-size: 15px;
+      letter-spacing: 2px;
+      fill: #8b949e;
+    }
+
+    .cursor {
+      fill: #00d9ff;
+      animation: blink 1s step-end infinite;
+    }
+
+    @keyframes draw {
+      0% {
+        stroke-dashoffset: 520;
+        fill: transparent;
+      }
+      65% {
+        fill: transparent;
+      }
+      100% {
+        stroke-dashoffset: 0;
+        fill: rgba(168, 85, 247, 0.2);
+      }
+    }
+
+    @keyframes blink {
+      50% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="720" height="180" rx="12"/>
+
+  <path class="scan" d="M40 35H680"/>
+  <path class="scan" d="M40 145H680"/>
+  <path class="scan" d="M58 20V160"/>
+  <path class="scan" d="M662 20V160"/>
+
+  <text class="glow" x="360" y="102" text-anchor="middle">ALLEN</text>
+  <text class="logo" x="360" y="102" text-anchor="middle">ALLEN</text>
+
+  <text class="tagline" x="360" y="136" text-anchor="middle">
+    AI AGENT  /  AI NATIVE  /  SYSTEMS THINKING
+  </text>
+
+  <rect class="cursor" x="594" y="121" width="10" height="18" rx="1"/>
+</svg>
