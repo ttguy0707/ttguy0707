@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=051218&center=true&width=435&lines=%F0%9F%91%BE+Hi%2C+I+am+Allen;Exploring+AI+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=1000&color=6F22B8&center=true&vCenter=true&width=435&lines=%F0%9F%91%BE+Hi%2C+I+am+Allen;%3E_+Exploring+AI" alt="Typing SVG" />
   </h1>
 
   <p align="center">
@@ -13,15 +13,15 @@
   ---
 
   <p align="center">
-    <img src="https://img.shields.io/badge/ALLEN-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white" alt="ALLEN"/>
+    <img src="https://img.shields.io/badge/ALLEN-6F22B8?style=for-the-badge&logo=lightning&logoColor=white" alt="ALLEN"/>
     <img src="https://komarev.com/ghpvc/?username=ttguy0707&label=Profile%20Views&color=00f5a0&style=for-the-badge" alt="profile views"/>
     <img src="https://img.shields.io/github/followers/ttguy0707?style=for-the-badge&logo=github&label=Followers&color=24292f"/>
     <img src="https://img.shields.io/github/stars/ttguy0707?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=00d9ff"/>
   </p>
 
   ---
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=3000&color=000000&vCenter=true&width=435&lines=%F0%9F%92%BB+What+I'm+Building" alt="Typing SVG" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=3000&color=6F22B8&center=true&vCenter=true&width=435&lines=%E2%98%95%EF%B8%8F+What+I'm+Building" alt="Typing SVG" />
   </h1>
 
   > **AI Agent**
@@ -36,8 +36,8 @@
 
   ---
 
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=3000&color=000000&vCenter=true&width=435&lines=%F0%9F%92%AB+North+Star" alt="Typing SVG" />
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=3000&color=6F22B8&center=true&vCenter=true&width=435&lines=%F0%9F%92%AB+North+Star" alt="Typing SVG" />
   </h1>
 
   > I hope to build useful, elegant, and intelligent systems that go beyond traditional software.
@@ -48,8 +48,8 @@
 
   ---
 
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=3000&color=000000&vCenter=true&width=435&lines=%F0%9F%93%AE+Connect+with+me" alt="Typing SVG" />
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=3000&color=6F22B8&center=true&vCenter=true&width=435&lines=%F0%9F%93%AE+Connect+with+me" alt="Typing SVG" />
   </h1>
 
   <p align="center">
