@@ -20,7 +20,8 @@
       stroke-width: 2.2;
       stroke-dasharray: 520;
       stroke-dashoffset: 520;
-      animation: draw 3.2s ease-in-out infinite alternate;
+      animation: draw 2s ease-in-out infinite alternate;
+      filter: drop-shadow(0 0 12px #a855f7);
     }
 
     .glow {
