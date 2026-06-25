@@ -10,7 +10,7 @@
     <br/>
   </p>
 
-  ---
+  
 
   <p align="center">
     <img src="https://img.shields.io/badge/ALLEN-6F22B8?style=for-the-badge&logo=lightning&logoColor=white" alt="ALLEN"/>
@@ -25,11 +25,13 @@
   </h1>
 
   > **AI Agent**
+  >  
   > I am interested in building autonomous, tool-using, and context-aware intelligent agents that can understand goals, reason over tasks, and collaborate with humans in real-world workflows.
   >
   > 我关注具备自主性、工具调用与上下文理解能力的 AI Agent，探索智能体如何理解目标、拆解任务，并在真实工作流中与人类协作。
 
   > **AI Native Applications**
+  > 
   > I am exploring software systems designed around AI from the beginning, where models, tools, data, and user interaction are deeply integrated into the product experience.
   >
   > 同时，我也在探索 AI Native 应用形态——从底层就围绕 AI 能力构建的软件系统，让模型、工具、数据与交互体验深度融合。
@@ -66,8 +68,6 @@
     <img src="https://img.shields.io/badge/Zhihu-1677FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/>
   </a>
   </p>
-
-  ---
 
 
   <p align="center">
