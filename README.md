@@ -20,8 +20,9 @@
   </p>
 
   ---
-
-  ## 💻 What I'm Building
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=3000&color=000000&vCenter=true&width=435&lines=%F0%9F%92%BB+What+I'm+Building" alt="Typing SVG" />
+  </h1>
 
   > **AI Agent**
   > I am interested in building autonomous, tool-using, and context-aware intelligent agents that can understand goals, reason over tasks, and collaborate with humans in real-world workflows.
@@ -35,7 +36,9 @@
 
   ---
 
-  ## 💫 North Star
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=3000&color=000000&vCenter=true&width=435&lines=%F0%9F%92%AB+North+Star" alt="Typing SVG" />
+  </h1>
 
   > I hope to build useful, elegant, and intelligent systems that go beyond traditional software.
   > My long-term goal is to explore how AI Agents can become capable collaborators, helping people think, create, and solve complex problems more effectively.
@@ -45,7 +48,9 @@
 
   ---
 
-  ## 🤝 Connect with me
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=3000&color=000000&vCenter=true&width=435&lines=%F0%9F%93%AE+Connect+with+me" alt="Typing SVG" />
+  </h1>
 
   <p align="center">
     <a href="https://github.com/ttguy0707">
