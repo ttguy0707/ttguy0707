@@ -54,9 +54,12 @@
     <a href="mailto:allen.wtyummy@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://www.xiaohongshu.com/user/profile/69d4a97b0000000033026c02">
-      <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
-    </a>
+       <a href="https://www.xiaohongshu.com/user/profile/69d4a97b0000000033026c02">
+    <img src="https://img.shields.io/badge/Rednote-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="RedNote"/>
+  </a>
+      <a href="https://www.zhihu.com/people/e-gun-62-91">
+    <img src="https://img.shields.io/badge/Zhihu-1677FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/>
+  </a>
   </p>
 
   ---
