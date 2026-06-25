@@ -1,0 +1,117 @@
+
+<svg width="1400" height="260" viewBox="0 0 1400 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGradient" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2A0647" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#6F22B8"/>
+      <stop offset="50%" stop-color="#D8A7FF"/>
+      <stop offset="82%" stop-color="#6F22B8"/>
+      <stop offset="100%" stop-color="#2A0647" stop-opacity="0"/>
+      <animate attributeName="x1" values="-180;120;-180" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1220;1520;1220" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="thinWave" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#B14CFF" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#B14CFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#6F22B8" stop-opacity="0.22"/>
+      <stop offset="62%" stop-color="#6F22B8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#6F22B8" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-10%" y="-80%" width="120%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-10%" y="-80%" width="120%" height="260%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="260" fill="#FFFFFF"/>
+  <rect width="1400" height="260" fill="url(#centerGlow)"/>
+
+  <g opacity="0.22">
+    <path d="M0 130H1400" stroke="#6F22B8" stroke-width="1"/>
+    <path d="M0 96H1400" stroke="#6F22B8" stroke-width="0.8" stroke-dasharray="8 18"/>
+    <path d="M0 164H1400" stroke="#6F22B8" stroke-width="0.8" stroke-dasharray="8 18"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <path stroke="url(#waveGradient)" stroke-width="8" stroke-linecap="round">
+      <animate
+        attributeName="d"
+        dur="5.5s"
+        repeatCount="indefinite"
+        values="
+          M10 130C95 78 164 78 238 130C312 182 382 182 456 130C530 78 600 78 674 130C748 182 818 182 892 130C966 78 1036 78 1110 130C1184 182 1254 182 1390 130;
+          M10 130C95 188 164 188 238 130C312 72 382 72 456 130C530 188 600 188 674 130C748 72 818 72 892 130C966 188 1036 188 1110 130C1184 72 1254 72 1390 130;
+          M10 130C95 78 164 78 238 130C312 182 382 182 456 130C530 78 600 78 674 130C748 182 818 182 892 130C966 78 1036 78 1110 130C1184 182 1254 182 1390 130
+        "
+      />
+    </path>
+
+    <path stroke="#6F22B8" stroke-opacity="0.5" stroke-width="4" stroke-linecap="round">
+      <animate
+        attributeName="d"
+        dur="6.4s"
+        repeatCount="indefinite"
+        values="
+          M10 132C120 98 210 102 302 132C394 162 484 160 576 132C668 104 758 102 850 132C942 162 1032 158 1124 132C1216 106 1300 104 1390 132;
+          M10 132C120 164 210 160 302 132C394 104 484 106 576 132C668 158 758 162 850 132C942 102 1032 106 1124 132C1216 158 1300 162 1390 132;
+          M10 132C120 98 210 102 302 132C394 162 484 160 576 132C668 104 758 102 850 132C942 162 1032 158 1124 132C1216 106 1300 104 1390 132
+        "
+      />
+    </path>
+  </g>
+
+  <g filter="url(#softGlow)" opacity="0.9">
+    <path stroke="url(#thinWave)" stroke-width="2.5" stroke-linecap="round">
+      <animate
+        attributeName="d"
+        dur="4.2s"
+        repeatCount="indefinite"
+        values="
+          M0 114C62 96 108 96 164 114C220 132 266 132 322 114C378 96 424 96 480 114C536 132 582 132 638 114C694 96 740 96 796 114C852 132 898 132 954 114C1010 96 1056 96 1112 114C1168 132 1214 132 1400 114;
+          M0 114C62 132 108 132 164 114C220 96 266 96 322 114C378 132 424 132 480 114C536 96 582 96 638 114C694 132 740 132 796 114C852 96 898 96 954 114C1010 132 1056 132 1112 114C1168 96 1214 96 1400 114;
+          M0 114C62 96 108 96 164 114C220 132 266 132 322 114C378 96 424 96 480 114C536 132 582 132 638 114C694 96 740 96 796 114C852 132 898 132 954 114C1010 96 1056 96 1112 114C1168 132 1214 132 1400 114
+        "
+      />
+    </path>
+
+    <path stroke="url(#thinWave)" stroke-width="2" stroke-linecap="round" opacity="0.65">
+      <animate
+        attributeName="d"
+        dur="4.8s"
+        repeatCount="indefinite"
+        values="
+          M0 148C62 164 108 164 164 148C220 132 266 132 322 148C378 164 424 164 480 148C536 132 582 132 638 148C694 164 740 164 796 148C852 132 898 132 954 148C1010 164 1056 164 1112 148C1168 132 1214 132 1400 148;
+          M0 148C62 132 108 132 164 148C220 164 266 164 322 148C378 132 424 132 480 148C536 164 582 164 638 148C694 132 740 132 796 148C852 164 898 164 954 148C1010 132 1056 132 1112 148C1168 164 1214 164 1400 148;
+          M0 148C62 164 108 164 164 148C220 132 266 132 322 148C378 164 424 164 480 148C536 132 582 132 638 148C694 164 740 164 796 148C852 132 898 132 954 148C1010 164 1056 164 1112 148C1168 132 1214 132 1400 148
+        "
+      />
+    </path>
+  </g>
+
+  <g opacity="0.36">
+    <circle cx="210" cy="130" r="3" fill="#6F22B8"/>
+    <circle cx="456" cy="130" r="3.5" fill="#B14CFF"/>
+    <circle cx="700" cy="130" r="4" fill="#D8A7FF"/>
+    <circle cx="944" cy="130" r="3.5" fill="#B14CFF"/>
+    <circle cx="1190" cy="130" r="3" fill="#6F22B8"/>
+  </g>
+</svg>
