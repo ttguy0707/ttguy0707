@@ -71,5 +71,5 @@
 
 
   <p align="center">
-    <img src="./assets/allen-logo.svg" alt="ALLEN Logo" width="720" />
+    <img src="./assets/allen-logo.svg" alt="ALLEN Logo" width="1000" />
   </p>
