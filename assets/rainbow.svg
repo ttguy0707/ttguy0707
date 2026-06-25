@@ -1,5 +1,5 @@
 
-<svg width="1400" height="260" viewBox="0 0 1400 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="200" viewBox="0 0 1400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="waveGradient" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#2A0647" stop-opacity="0"/>
@@ -18,40 +18,11 @@
       <stop offset="65%" stop-color="#B14CFF" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
     </linearGradient>
-
-    <radialGradient id="centerGlow" cx="50%" cy="50%" r="55%">
-      <stop offset="0%" stop-color="#6F22B8" stop-opacity="0.22"/>
-      <stop offset="62%" stop-color="#6F22B8" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#6F22B8" stop-opacity="0"/>
-    </radialGradient>
-
-    <filter id="glow" x="-10%" y="-80%" width="120%" height="260%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <filter id="softGlow" x="-10%" y="-80%" width="120%" height="260%">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <rect width="1400" height="260" fill="#FFFFFF"/>
-  <rect width="1400" height="260" fill="url(#centerGlow)"/>
+  <rect width="1400" height="200" fill="#FFFFFF"/>
 
-  <g opacity="0.22">
-    <path d="M0 130H1400" stroke="#6F22B8" stroke-width="1"/>
-    <path d="M0 96H1400" stroke="#6F22B8" stroke-width="0.8" stroke-dasharray="8 18"/>
-    <path d="M0 164H1400" stroke="#6F22B8" stroke-width="0.8" stroke-dasharray="8 18"/>
-  </g>
-
-  <g filter="url(#glow)">
+  <g>
     <path stroke="url(#waveGradient)" stroke-width="8" stroke-linecap="round">
       <animate
         attributeName="d"
@@ -79,7 +50,7 @@
     </path>
   </g>
 
-  <g filter="url(#softGlow)" opacity="0.9">
+  <g opacity="0.9">
     <path stroke="url(#thinWave)" stroke-width="2.5" stroke-linecap="round">
       <animate
         attributeName="d"
