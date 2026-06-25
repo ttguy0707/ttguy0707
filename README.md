@@ -8,7 +8,6 @@
     <br/>
     🧠 Exploring AI Agent | AI Native | Human-Agent Collaboration
     <br/>
-    📧 Email: <a href="mailto:allen.wtyummy@gmail.com">allen.wtyummy[@]gmail.com</a>
   </p>
 
   ---
@@ -26,12 +25,12 @@
   > **AI Agent**
   > I am interested in building autonomous, tool-using, and context-aware intelligent agents that can understand goals, reason over tasks, and collaborate with humans in real-world workflows.
   >
-  > 我关注具备自主性、工具调用能力和上下文理解能力的 AI Agent，希望探索智能体如何理解目标、拆解任务，并在真实工作流中与人类协作。
+  > 我关注具备自主性、工具调用与上下文理解能力的 AI Agent，探索智能体如何理解目标、拆解任务，并在真实工作流中与人类协作。
 
   > **AI Native Applications**
   > I am exploring software systems designed around AI from the beginning, where models, tools, data, and user interaction are deeply integrated into the product experience.
   >
-  > 我关注 AI Native 应用形态，即从一开始就围绕 AI 能力构建的软件系统，让模型、工具、数据和交互体验深度融合。
+  > 同时，我也在探索 AI Native 应用形态——从底层就围绕 AI 能力构建的软件系统，让模型、工具、数据与交互体验深度融合。
 
   ---
 
@@ -61,16 +60,7 @@
 
   ---
 
-  ## ✨ Quote
 
-  > *Build agents. Break assumptions. Ship intelligence.*
-
-  ```txt
-   █████╗  ██╗      ██╗      ███████╗   ███╗   ██╗
-  ██╔══██╗ ██║      ██║      ██╔════╝   ████╗  ██║
-  ███████║ ██║      ██║      █████╗     ██╔██╗ ██║
-  ██╔══██║ ██║      ██║      ██╔══╝     ██║╚██╗██║
-  ██║  ██║ ███████╗ ███████╗ ███████╗   ██║ ╚████║
-  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝ ╚══════╝   ╚═╝  ╚═══╝
-
-          ALLEN.WANG :: AI AGENT / AI NATIVE
+  <p align="center">
+    <img src="./assets/allen-logo.svg" alt="ALLEN Logo" width="720" />
+  </p>
