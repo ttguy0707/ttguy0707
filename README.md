@@ -13,6 +13,7 @@
   ---
 
   <p align="center">
+    <img src="https://img.shields.io/badge/ALLEN-8A2BE2?style=for-the-badge&logo=lightning&logoColor=white" alt="ALLEN"/>
     <img src="https://komarev.com/ghpvc/?username=ttguy0707&label=Profile%20Views&color=00f5a0&style=for-the-badge" alt="profile views"/>
     <img src="https://img.shields.io/github/followers/ttguy0707?style=for-the-badge&logo=github&label=Followers&color=24292f"/>
     <img src="https://img.shields.io/github/stars/ttguy0707?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=00d9ff"/>
