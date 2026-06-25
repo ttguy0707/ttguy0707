@@ -1,16 +1,76 @@
-## Hi there 👋
 
-<!--
-**ttguy0707/ttguy0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=051218&center=true&width=435&lines=%F0%9F%91%BE+Hi%2C+I+am+Allen;Exploring+AI+%F0%9F%A7%A0" alt="Typing SVG" />
+  </h1>
 
-Here are some ideas to get you started:
+  <p align="center">
+    🎓 Master's Student @ South China University of Technology (SCUT)
+    <br/>
+    🧠 Exploring AI Agent | AI Native | Human-Agent Collaboration
+    <br/>
+    📧 Email: <a href="mailto:allen.wtyummy@gmail.com">allen.wtyummy[@]gmail.com</a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ttguy0707&label=Profile%20Views&color=00f5a0&style=for-the-badge" alt="profile views"/>
+    <img src="https://img.shields.io/github/followers/ttguy0707?style=for-the-badge&logo=github&label=Followers&color=24292f"/>
+    <img src="https://img.shields.io/github/stars/ttguy0707?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=00d9ff"/>
+  </p>
+
+  ---
+
+  ## 🧠 Research Interests
+
+  > **AI Agent**
+  > I am interested in building autonomous, tool-using, and context-aware intelligent agents that can understand goals, reason over tasks, and collaborate with humans in real-world workflows.
+  >
+  > 我关注具备自主性、工具调用能力和上下文理解能力的 AI Agent，希望探索智能体如何理解目标、拆解任务，并在真实工作流中与人类协作。
+
+  > **AI Native Applications**
+  > I am exploring software systems designed around AI from the beginning, where models, tools, data, and user interaction are deeply integrated into the product experience.
+  >
+  > 我关注 AI Native 应用形态，即从一开始就围绕 AI 能力构建的软件系统，让模型、工具、数据和交互体验深度融合。
+
+  ---
+
+  ## 🌱 Long-term Vision
+
+  > I hope to build useful, elegant, and intelligent systems that go beyond traditional software.
+  > My long-term goal is to explore how AI Agents can become capable collaborators, helping people think, create, and solve complex problems more effectively.
+  >
+  > 我希望构建真正有用、优雅且智能的系统。
+  > 长期来看，我想探索 AI Agent 如何成为人类可靠的协作者，帮助人们更高效地思考、创造和解决复杂问题。
+
+  ---
+
+  ## 🤝 Connect with me
+
+  <p align="center">
+    <a href="https://github.com/ttguy0707">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="mailto:allen.wtyummy@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.xiaohongshu.com/user/profile/69d4a97b0000000033026c02">
+      <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
+    </a>
+  </p>
+
+  ---
+
+  ## ✨ Quote
+
+  > *Build agents. Break assumptions. Ship intelligence.*
+
+  ```txt
+   █████╗  ██╗      ██╗      ███████╗   ███╗   ██╗
+  ██╔══██╗ ██║      ██║      ██╔════╝   ████╗  ██║
+  ███████║ ██║      ██║      █████╗     ██╔██╗ ██║
+  ██╔══██║ ██║      ██║      ██╔══╝     ██║╚██╗██║
+  ██║  ██║ ███████╗ ███████╗ ███████╗   ██║ ╚████║
+  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝ ╚══════╝   ╚═╝  ╚═══╝
+
+          ALLEN.WANG :: AI AGENT / AI NATIVE
