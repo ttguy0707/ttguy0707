@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./assets/rainbow.svg" alt="RainBow" width="1000" />
+  </p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=6F22B8&center=true&vCenter=true&width=435&lines=%F0%9F%91%BE+Hi%2C+I+am+Allen;%3E_+Exploring+AI" alt="Typing SVG" />
