@@ -20,15 +20,10 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
   </defs>
 
   <style>
-    .scan {
-      fill: none;
-      stroke: rgba(168, 85, 247, 0.16);
-      stroke-width: 1;
-    }
-
     .logo {
       font-family: Impact, Haettenschweiler, "Arial Black", "Fira Code", "JetBrains Mono", sans-serif;
       font-size: 92px;
@@ -51,12 +46,8 @@
       opacity: 0.16;
       filter: blur(7px);
     }
-  </style>
 
-  <path class="scan" d="M40 30H680"/>
-  <path class="scan" d="M40 122H680"/>
-  <path class="scan" d="M58 18V135"/>
-  <path class="scan" d="M662 18V135"/>
+  </style>
 
   <text class="glow" x="360" y="106" text-anchor="middle">ALLEN</text>
   <text class="logo" x="360" y="106" text-anchor="middle">ALLEN</text>
